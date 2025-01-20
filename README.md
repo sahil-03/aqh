@@ -1,4 +1,4 @@
-AQH = Attendance Quiz Helper 
+AQH = Attendance Quiz Helper <br>
 Sometimes, I am too lazy to do the attendance quizzes for asynch classes. This does it for me. 
 
 To run: 
