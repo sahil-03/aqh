@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "aqh"
+version = "0.1.0"
+description = ""
+authors = ["Sahil Adhawade <sahil.adhawade@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pydub = "^0.25.1"
+speechrecognition = "^3.14.0"
+noisereduce = "^3.0.3"
+pocketsphinx = "^5.0.4"
+openai = "^1.59.8"
+tqdm = "^4.67.1"
+tiktoken = "^0.8.0"
+tk = "^0.1.0"
+pyqt5 = "^5.15.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
